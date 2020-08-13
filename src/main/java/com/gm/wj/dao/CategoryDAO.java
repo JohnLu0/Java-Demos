@@ -5,9 +5,12 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import com.gm.wj.entity.Category;
 
 /**
- * @author Evan
- * @date 2019/4
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 public interface CategoryDAO extends JpaRepository<Category, Integer> {
 
 }

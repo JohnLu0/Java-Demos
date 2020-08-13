@@ -9,8 +9,11 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @author Evan
- * @date 2019/4
+ *功能描述
+ * @author JohnLuo
+ * @date 2020/8/14
+ * @param  * @param null
+ * @return
  */
 @Service
 public class CategoryService {

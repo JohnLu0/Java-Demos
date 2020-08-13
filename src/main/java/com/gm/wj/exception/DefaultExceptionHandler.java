@@ -9,10 +9,11 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Global exception handler.
- *
- * @author Evan
- * @date 2019/11
+ *功能描述
+ * @author JohnLuo
+ * @date 2020/8/14
+ * @param  * @param null
+ * @return
  */
 @ControllerAdvice
 @ResponseBody

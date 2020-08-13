@@ -4,9 +4,12 @@ import com.gm.wj.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author Evan
- * @date 2019/4
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 public interface UserDAO extends JpaRepository<User,Integer> {
     User findByUsername(String username);
 

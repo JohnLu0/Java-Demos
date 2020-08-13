@@ -16,11 +16,12 @@ import org.springframework.web.util.HtmlUtils;
 import javax.validation.Valid;
 
 /**
- * Login and register controller.
- *
- * @author Evan
- * @date 2019/4
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 @RestController
 public class LoginController {
 

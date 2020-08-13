@@ -3,8 +3,11 @@ package com.gm.wj.result;
 import lombok.Data;
 
 /**
- * @author Evan
- * @date 2019/4
+ *功能描述
+ * @author JohnLuo
+ * @date 2020/8/14
+ * @param  * @param null
+ * @return
  */
 @Data
 public class Result {

@@ -7,9 +7,12 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * @author Evan
- * @date 2019/4
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return
+        */
 public interface BookDAO extends JpaRepository<Book,Integer> {
     List<Book> findAllByCategory(Category category);
     List<Book> findAllByTitleLikeOrAuthorLike(String keyword1, String keyword2);

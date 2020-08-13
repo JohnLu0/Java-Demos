@@ -17,8 +17,11 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Set;
 
 /**
- * @author Evan
- * @date 2019/11
+ *功能描述
+ * @author JohnLuo
+ * @date 2020/8/14
+ * @param  * @param null
+ * @return
  */
 @Log4j2
 public class URLPathMatchingFilter extends PathMatchingFilter {

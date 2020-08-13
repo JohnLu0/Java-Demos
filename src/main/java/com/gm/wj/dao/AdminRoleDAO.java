@@ -4,9 +4,12 @@ import com.gm.wj.entity.AdminRole;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author Evan
- * @date 2019/11
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 public interface AdminRoleDAO extends JpaRepository<AdminRole, Integer> {
     AdminRole findById(int id);
 }

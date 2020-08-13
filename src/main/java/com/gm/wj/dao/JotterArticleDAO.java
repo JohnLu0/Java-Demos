@@ -4,9 +4,12 @@ import com.gm.wj.entity.JotterArticle;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author Evan
- * @date 2020/1/14 20:40
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 public interface JotterArticleDAO  extends JpaRepository<JotterArticle,Integer> {
     JotterArticle findById(int id);
 }

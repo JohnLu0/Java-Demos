@@ -7,11 +7,12 @@ import lombok.ToString;
 import javax.persistence.*;
 
 /**
- * Permission entity.
- *
- * @author Evan
- * @date 2019/11
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 @Data
 @Entity
 @Table(name = "admin_permission")

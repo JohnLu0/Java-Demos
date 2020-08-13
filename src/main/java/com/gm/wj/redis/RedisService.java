@@ -8,10 +8,11 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Redis service.
- *
- * @author Evan
- * @date 2020/3/11 12:42
+ *功能描述
+ * @author JohnLuo
+ * @date 2020/8/14
+ * @param  * @param null
+ * @return
  */
 @Service
 public class RedisService {

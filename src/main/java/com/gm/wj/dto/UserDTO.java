@@ -9,9 +9,12 @@ import lombok.ToString;
 import java.util.List;
 
 /**
- * @author Evan
- * @date 2020/4/1 19:57
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 @Data
 @ToString
 public class UserDTO implements OutputConverter<UserDTO, User> {

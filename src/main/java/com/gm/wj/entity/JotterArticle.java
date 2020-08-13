@@ -10,10 +10,11 @@ import javax.validation.constraints.NotNull;
 import java.sql.Date;
 
 /**
- * Article entity.
- *
- * @author Evan
- * @date 2020/1/14 20:25
+ *功能描述
+ * @author JohnLuo
+ * @date 2020/8/14
+ * @param  * @param null
+ * @return
  */
 @Data
 @Entity

@@ -10,11 +10,12 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 
 /**
- * Jotter controller.
- *
- * @author Evan
- * @date 2020/1/14 20:33
- */
+ *功能描述
+        * @author JohnLuo
+        * @date 2020/8/14
+        * @param  * @param null
+        * @return 
+        */
 @RestController
 public class JotterController {
     @Autowired
